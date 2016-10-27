@@ -1,5 +1,8 @@
 # README
 
+Some Rails/MySQL setup:
+`https://www.digitalocean.com/community/tutorials/how-to-use-mysql-with-your-ruby-on-rails-application-on-ubuntu-14-04`
+
 Created following this guide: 
 `http://guides.rubyonrails.org/getting_started.html#laying-down-the-ground-work`
 
