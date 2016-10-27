@@ -1,6 +1,7 @@
 # README
 
-Created following this guide: http://guides.rubyonrails.org/getting_started.html#laying-down-the-ground-work
+Created following this guide: 
+`http://guides.rubyonrails.org/getting_started.html#laying-down-the-ground-work`
 
 
 Things you may want to cover:
